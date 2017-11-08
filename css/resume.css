@@ -12,6 +12,7 @@ body {
 @media (min-width: 992px) {
   body {
     padding-top: 0;
+    font-size: 1.4rem;
     padding-left: 17rem; } }
 
 h1,
@@ -52,6 +53,7 @@ h2 {
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
+  font-size: 1.4rem;
   text-transform: uppercase; }
 
 @media (min-width: 992px) {
