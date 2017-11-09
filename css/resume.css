@@ -103,8 +103,8 @@ section.resume-section {
 
 @media (min-width: 992px) {
   section.resume-section {
-    max-width: 10rem;
-    max-height: 10rem;
+    width: 15rem;
+    height: 15rem;
     }
 
 .bg-primary {
