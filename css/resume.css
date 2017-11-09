@@ -68,7 +68,7 @@ h2 {
     height: 100vh; }
     #sideNav .navbar-brand {
       display: flex;
-      margin:6;
+      margin:6rem;
       padding: 0.5rem; }
       #sideNav .navbar-brand .img-profile {
         max-width: 15rem;
