@@ -24,7 +24,6 @@ h6 {
   font-family: 'Saira Extra Condensed', serif;
   font-weight: 700;
   text-transform: uppercase;
-  margin-bottom: 5rem important!;
   color: #343a40; }
 
 h1 {
@@ -69,7 +68,7 @@ h2 {
     height: 100vh; }
     #sideNav .navbar-brand {
       display: flex;
-      margin: auto auto 0;
+      margin:6;
       padding: 0.5rem; }
       #sideNav .navbar-brand .img-profile {
         max-width: 15rem;
