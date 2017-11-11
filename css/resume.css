@@ -54,7 +54,8 @@ h2 {
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
   font-size: 1.4rem;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  color:#ADD8E6}
 
 @media (min-width: 992px) {
   #sideNav {
