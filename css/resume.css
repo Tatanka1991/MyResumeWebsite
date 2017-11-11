@@ -55,7 +55,7 @@ h2 {
   font-weight: 600;
   font-size: 1.4rem;
   text-transform: uppercase;
-  color:#ADD8E6;}
+  color:#ADD8E6; }
 
 @media (min-width: 992px) {
   #sideNav {
@@ -109,10 +109,10 @@ section.resume-section {
     }
 
 .bg-primary {
-  background-color:#ADD8E6!important; }
+  background-color:#ADD8E6; }
 
 .text-primary {
-  color:#ADD8E6!important; }
+  color:#ADD8E6; }
 
 a {color:#ADD8E6; }
   a:hover, a:focus, a:active {
