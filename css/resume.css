@@ -109,6 +109,7 @@ section.resume-section {
     padding-top:3rem!important;
     padding-bottom:3rem!important;
     }
+}
 
 .bg-primary {
   background-color:#ADD8E6!important;}
@@ -119,4 +120,3 @@ section.resume-section {
 a {color:#ADD8E6!important; }
   a:focus, a:active, a:hover {
     color:#ADD8E6!important; }
-  }
