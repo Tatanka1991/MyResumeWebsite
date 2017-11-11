@@ -55,7 +55,7 @@ h2 {
   font-weight: 600;
   font-size: 1.4rem;
   text-transform: uppercase;
-  color:#ADD8E6; }
+  }
 
 @media (min-width: 992px) {
   #sideNav {
@@ -70,7 +70,8 @@ h2 {
     #sideNav .navbar-brand {
       display: flex;
       margin:1rem;
-      padding:.5rem; }
+      padding:.5rem;
+      color:#ADD8E6;}
       #sideNav .navbar-brand .img-profile {
         max-width: 15rem;
         max-height: 15rem;
