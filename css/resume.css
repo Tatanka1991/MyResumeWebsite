@@ -114,11 +114,12 @@ section.resume-section {
     }
 }
 
-.bg-primary{background-color:#bd5d38!important}
+.bg-primary{
+  background-color:#add8e6;}
 
 .text-primary {
-  color:#ADD8E6!important;}
-  a {color:#ADD8E6!important; }
+  color:#add8e6;}
+  a {color:#add8e6; }
   a:focus, a:active, a:hover {
-    color:#ADD8E6!important; }
-  }
+    color:#add8e6; }
+}
